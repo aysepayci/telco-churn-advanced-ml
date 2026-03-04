@@ -1,0 +1,12 @@
+# Veri klasörleri
+data/
+*.csv
+
+# Python gereksiz dosyaları
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sanal ortam
+venv/
+env/
