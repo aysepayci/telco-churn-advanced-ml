@@ -1,6 +1,6 @@
 # Veri klasörleri
-data/
-*.csv
+#data/
+#*.csv
 
 # Python gereksiz dosyaları
 __pycache__/
